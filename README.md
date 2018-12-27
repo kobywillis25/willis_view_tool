@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 WillisViewTool::Renderer.copyright 'Koby Willis', 'All rights reserved'
+```
 
 ## Development
 
