@@ -1,4 +1,4 @@
-# WillisViewTool
+# KobysViewTool
 
 > Various view specific methods for applications I use.
 
@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'willis_view_tool'
+gem 'kobys_view_tool'
 ```
 
 And then execute:
@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-WillisViewTool::Renderer.copyright 'Koby Willis', 'All rights reserved'
+KobysViewTool::Renderer.copyright 'Koby Willis', 'All rights reserved'
 ```
 
 ## Development

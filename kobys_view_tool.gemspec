@@ -1,11 +1,11 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "willis_view_tool/version"
+require "kobys_view_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "willis_view_tool"
-  spec.version       = WillisViewTool::VERSION
+  spec.name          = "kobys_view_tool"
+  spec.version       = KobysViewTool::VERSION
   spec.authors       = ["Koby Willis"]
   spec.email         = ["koby_willis@hotmail.com"]
 
