@@ -1,3 +1,3 @@
-module WillisViewTool
+module KobysViewTool
   VERSION = "0.1.0"
 end

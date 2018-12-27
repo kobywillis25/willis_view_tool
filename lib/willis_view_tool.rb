@@ -1,6 +1,6 @@
-require "willis_view_tool/version"
-require "willis_view_tool/renderer"
+require "kobys_view_tool/version"
+require "kobys_view_tool/renderer"
 
-module WillisViewTool
+module KobysViewTool
   # Your code goes here...
 end
